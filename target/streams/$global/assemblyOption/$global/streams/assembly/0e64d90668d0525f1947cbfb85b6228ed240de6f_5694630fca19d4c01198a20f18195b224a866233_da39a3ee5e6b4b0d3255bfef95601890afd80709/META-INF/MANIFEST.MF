@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Spark Project Launcher
+Implementation-Version: 2.3.1
+Built-By: vanzin
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Spark Project Launcher
+Implementation-Vendor-Id: org.apache.spark
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_161
+Specification-Version: 2.3
+Implementation-URL: http://spark.apache.org/
+Implementation-Vendor: The Apache Software Foundation
+

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Title: Arrow Vectors
+Implementation-Version: 0.8.0
+Implementation-Vendor-Id: org.apache.arrow
+Build-Jdk: 1.7.0_80
+Specification-Vendor: The Apache Software Foundation
+Built-By: 
+Specification-Title: Arrow Vectors
+Created-By: Apache Maven 3.3.9
+Implementation-URL: http://arrow.apache.org/arrow-vector/
+Specification-Version: 0.8
+Extension-Name: org.apache.arrow
+url: http://arrow.apache.org/
+Archiver-Version: Plexus Archiver
+

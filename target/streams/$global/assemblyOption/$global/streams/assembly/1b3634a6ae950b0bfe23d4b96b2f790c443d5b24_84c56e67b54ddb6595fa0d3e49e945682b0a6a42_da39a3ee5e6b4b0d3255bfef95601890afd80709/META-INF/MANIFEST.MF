@@ -1,0 +1,57 @@
+Manifest-Version: 1.0
+Export-Package: com.univocity.parsers.conversions;version="2.5.9",com.
+ univocity.parsers.tsv;uses:="com.univocity.parsers.common,com.univoci
+ ty.parsers.common.routine";version="2.5.9",com.univocity.parsers.csv;
+ uses:="com.univocity.parsers.common,com.univocity.parsers.common.inpu
+ t,com.univocity.parsers.common.routine";version="2.5.9",com.univocity
+ .parsers.fixed;uses:="com.univocity.parsers.common,com.univocity.pars
+ ers.common.input,com.univocity.parsers.common.routine";version="2.5.9
+ ",com.univocity.parsers.common;uses:="com.univocity.parsers.common.fi
+ elds,com.univocity.parsers.common.input,com.univocity.parsers.common.
+ processor,com.univocity.parsers.common.processor.core,com.univocity.p
+ arsers.common.record,com.univocity.parsers.conversions";version="2.5.
+ 9",com.univocity.parsers.common.input;uses:="com.univocity.parsers.co
+ mmon";version="2.5.9",com.univocity.parsers.common.input.concurrent;u
+ ses:="com.univocity.parsers.common.input";version="2.5.9",com.univoci
+ ty.parsers.common.processor;uses:="com.univocity.parsers.common,com.u
+ nivocity.parsers.common.processor.core";version="2.5.9",com.univocity
+ .parsers.common.processor.core;uses:="com.univocity.parsers.annotatio
+ ns.helpers,com.univocity.parsers.common,com.univocity.parsers.common.
+ fields,com.univocity.parsers.common.processor,com.univocity.parsers.c
+ onversions";version="2.5.9",com.univocity.parsers.common.iterators;us
+ es:="com.univocity.parsers.common,com.univocity.parsers.common.record
+ ";version="2.5.9",com.univocity.parsers.common.beans;version="2.5.9",
+ com.univocity.parsers.common.routine;uses:="com.univocity.parsers.com
+ mon";version="2.5.9",com.univocity.parsers.common.record;uses:="com.u
+ nivocity.parsers.common,com.univocity.parsers.common.fields,com.univo
+ city.parsers.conversions";version="2.5.9",com.univocity.parsers.commo
+ n.fields;uses:="com.univocity.parsers.conversions";version="2.5.9",co
+ m.univocity.parsers.annotations;uses:="com.univocity.parsers.conversi
+ ons,com.univocity.parsers.fixed";version="2.5.9",com.univocity.parser
+ s.annotations.helpers;uses:="com.univocity.parsers.annotations,com.un
+ ivocity.parsers.common.beans,com.univocity.parsers.conversions";versi
+ on="2.5.9"
+Implementation-Title: univocity-parsers
+Implementation-Version: 2.5.9
+Specification-Vendor: uniVocity Software Pty Ltd
+Built-By: jbax
+Tool: Bnd-2.3.0.201405100607
+Bundle-Name: univocity-parsers
+Created-By: Apache Maven Bundle Plugin
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Bundle-Vendor: uniVocity Software Pty Ltd
+Implementation-Vendor: uniVocity Software Pty Ltd
+Implementation-Vendor-Id: com.univocity
+Bundle-Version: 2.5.9
+Build-Jdk: 1.6.0_45
+Bnd-LastModified: 1511234679436
+Bundle-ManifestVersion: 2
+Specification-Title: univocity-parsers
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-Description: uniVocity's open source parsers for processing dif
+ ferent text formats using a consistent API
+Bundle-SymbolicName: com.univocity.parsers
+Bundle-DocURL: www.univocity.com
+Specification-Version: 2.5.9
+Archiver-Version: Plexus Archiver
+
